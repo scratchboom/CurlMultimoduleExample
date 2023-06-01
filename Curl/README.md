@@ -1,6 +1,6 @@
 # Before usage
 
-## install curl headers:
+## install libcurl:
 
 ### on Linux:
 `sudo apt install libcurl4-gnutls-dev` 
